@@ -22,3 +22,4 @@ In some graphs I make the direct comparison between 2018 and 2023 since it's the
 * The results seem to indicate that cases of violence have not decreased, but rather the opposite.
 * Mexican society is still unwilling to report crimes because the process is a waste of time and we do not trust the authorities.
 * There are some states that do not present this phenomenon (such as Chiapas)
+* Security figures show an increase in the number of cases, it seems that the general response of the survey is that the population feels safer
